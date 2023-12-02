@@ -1,0 +1,25 @@
+﻿Categoria,Custo Unitario,Marca,Preco Unitario,Produto,SKU
+Câmera,300,Sony,700,Câmera Digital Sony Cyber,HL1015
+Câmera,700,Nikon,1550,Câmera Coolpix L340,HL1013
+Câmera,850,Canon,1500,Câmera Digital Rebel T6,HL1005
+Celular,550,Samsung,1100,Galaxy J8,HL1014
+Celular,650,Motorola,1500,Moto Z,HL1020
+Celular,750,Motorola,1400,Moto G7,HL1009
+Celular,1150,Apple,1900,iPhone 6S,HL1010
+Celular,1400,Samsung,3000,Galaxy S8,HL1021
+Celular,1500,Apple,2500,iPhone 7,HL1002
+Celular,2800,Apple,6500,iPhone XS,HL1019
+Celular,2800,Samsung,4500,Galaxy S10,HL1003
+Notebook,550,Samsung,1500,Samsung Dual Core,HL1023
+Notebook,1150,Acer,2400,Aspire 5,HL1024
+Notebook,1200,Dell,2300,Inspiron 15,HL1007
+Notebook,3200,Dell,5500,Dell G7,HL1012
+Smart Watch,650,Xiaomi,1200,Smart Watch MI,HL1018
+Smart Watch,700,Samsung,1450,Smart Watch Galaxy,HL1016
+Smart Watch,900,Apple,1750,Apple Watch,HL1004
+Tablet,350,Apple,750,iPad 32GB Wifi,HL1022
+Tablet,1100,Samsung,2000,Tablet M10 Android,HL1011
+Televisão,900,Samsung,1400,TV LED 32',HL1006
+Televisão,1250,Philco,2000,Smart TV LED Full HD 55',HL1008
+Televisão,1700,LG,2600,Smart TV 50' 4K,HL1001
+Televisão,3500,Samsung,5200,Smart TV 75' 4K,HL1017
